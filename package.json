@@ -1,0 +1,14 @@
+{
+  "name": "startlists",
+  "version": "1.0.0",
+  "description": "Create StartLists for Club Champs style events as well as lane timing templates",
+  "scripts": {
+    "start": "node createStartLists.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "papaparse": "^5.3.1",
+    "pdfkit": "^0.12.1"
+  }
+}

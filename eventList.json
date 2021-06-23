@@ -1,0 +1,24 @@
+{
+    "events": [
+        {
+            "stroke": "Free",
+            "distance": "25m",
+            "gender": "both"
+        },
+        {
+            "stroke": "Back",
+            "distance": "25m",
+            "gender": "both"
+        },
+        {
+            "stroke": "Breast",
+            "distance": "25m",
+            "gender": "both"
+        },
+        {
+            "stroke": "Fly",
+            "distance": "25m",
+            "gender": "both"
+        }
+    ]
+}
